@@ -38,7 +38,9 @@ h1 , h2 , h3 , .card-title{
 }
 .our-vision div{
   background-color: rgba(0, 0, 0, 298);
-  
+  padding: 20px;
+  border-radius: 10px;
+
 }
 
 .our-teacher img{
